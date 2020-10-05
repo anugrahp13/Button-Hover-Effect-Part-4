@@ -11,6 +11,7 @@ button {
     border: 1px solid #E72629;
     transition: color 0.3s ease-out 0.3;
     font-family: 'poppins';
+    text-transform: uppercase;
     cursor: pointer;
     overflow: hidden;
     position: absolute;
